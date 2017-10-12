@@ -1,0 +1,11 @@
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\bin\Debug\netcoreapp2.0\DealerTrackTest.deps.json
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\bin\Debug\netcoreapp2.0\DealerTrackTest.runtimeconfig.json
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\bin\Debug\netcoreapp2.0\DealerTrackTest.runtimeconfig.dev.json
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\bin\Debug\netcoreapp2.0\DealerTrackTest.dll
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\bin\Debug\netcoreapp2.0\DealerTrackTest.pdb
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\obj\Debug\netcoreapp2.0\DealerTrackTest.csprojResolveAssemblyReference.cache
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\obj\Debug\netcoreapp2.0\DealerTrackTest.csproj.CoreCompileInputs.cache
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\obj\Debug\netcoreapp2.0\DealerTrackTest.AssemblyInfoInputs.cache
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\obj\Debug\netcoreapp2.0\DealerTrackTest.AssemblyInfo.cs
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\obj\Debug\netcoreapp2.0\DealerTrackTest.dll
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\obj\Debug\netcoreapp2.0\DealerTrackTest.pdb

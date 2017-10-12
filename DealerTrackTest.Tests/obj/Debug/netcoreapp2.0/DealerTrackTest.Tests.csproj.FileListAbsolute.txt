@@ -1,0 +1,16 @@
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\bin\Debug\netcoreapp2.0\DealerTrackTest.Tests.deps.json
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\bin\Debug\netcoreapp2.0\DealerTrackTest.Tests.runtimeconfig.json
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\bin\Debug\netcoreapp2.0\DealerTrackTest.Tests.runtimeconfig.dev.json
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\bin\Debug\netcoreapp2.0\DealerTrackTest.Tests.dll
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\bin\Debug\netcoreapp2.0\DealerTrackTest.Tests.pdb
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\bin\Debug\netcoreapp2.0\DealerTrackTest.dll
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\bin\Debug\netcoreapp2.0\DealerTrackTest.pdb
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\obj\Debug\netcoreapp2.0\DealerTrackTest.Tests.csprojResolveAssemblyReference.cache
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\obj\Debug\netcoreapp2.0\DealerTrackTest.Tests.csproj.CoreCompileInputs.cache
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\obj\Debug\netcoreapp2.0\DealerTrackTest.Tests.AssemblyInfoInputs.cache
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\obj\Debug\netcoreapp2.0\DealerTrackTest.Tests.AssemblyInfo.cs
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\obj\Debug\netcoreapp2.0\DealerTrackTest.Tests.dll
+c:\users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest.Tests\obj\Debug\netcoreapp2.0\DealerTrackTest.Tests.pdb
