@@ -5649,11 +5649,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest.Tests\\DealerTrackTest.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest.Tests\\DealerTrackTest.Tests.csproj",
       "projectName": "DealerTrackTest.Tests",
-      "projectPath": "c:\\users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest.Tests\\DealerTrackTest.Tests.csproj",
+      "projectPath": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest.Tests\\DealerTrackTest.Tests.csproj",
       "packagesPath": "C:\\Users\\marc.legendre\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest.Tests\\obj\\",
+      "outputPath": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5677,8 +5677,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\DealerTrackTest.csproj": {
-              "projectPath": "c:\\users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\DealerTrackTest.csproj"
+            "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\DealerTrackTest.csproj": {
+              "projectPath": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\DealerTrackTest.csproj"
             }
           }
         }

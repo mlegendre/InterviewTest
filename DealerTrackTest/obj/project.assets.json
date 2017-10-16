@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\DealerTrackTest.csproj",
+      "projectUniqueName": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\DealerTrackTest.csproj",
       "projectName": "DealerTrackTest",
-      "projectPath": "c:\\users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\DealerTrackTest.csproj",
+      "projectPath": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\DealerTrackTest.csproj",
       "packagesPath": "C:\\Users\\marc.legendre\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\obj\\",
+      "outputPath": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
