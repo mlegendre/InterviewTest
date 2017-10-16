@@ -1601,17 +1601,17 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "DealerTrackTest/1.0.0": {
+      "InterviewTest/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "Microsoft.NETCore.App": "2.0.0"
         },
         "compile": {
-          "bin/placeholder/DealerTrackTest.dll": {}
+          "bin/placeholder/InterviewTest.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DealerTrackTest.dll": {}
+          "bin/placeholder/InterviewTest.dll": {}
         }
       }
     }
@@ -5624,15 +5624,15 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "DealerTrackTest/1.0.0": {
+    "InterviewTest/1.0.0": {
       "type": "project",
-      "path": "../DealerTrackTest/DealerTrackTest.csproj",
-      "msbuildProject": "../DealerTrackTest/DealerTrackTest.csproj"
+      "path": "../DealerTrackTest/InterviewTest.csproj",
+      "msbuildProject": "../DealerTrackTest/InterviewTest.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "DealerTrackTest >= 1.0.0",
+      "InterviewTest >= 1.0.0",
       "MSTest.TestAdapter >= 1.1.18",
       "MSTest.TestFramework >= 1.1.18",
       "Microsoft.NET.Test.Sdk >= 15.3.0-preview-20170628-02",
@@ -5649,9 +5649,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest.Tests\\DealerTrackTest.Tests.csproj",
-      "projectName": "DealerTrackTest.Tests",
-      "projectPath": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest.Tests\\DealerTrackTest.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest.Tests\\InteviewTest.Tests.csproj",
+      "projectName": "InteviewTest.Tests",
+      "projectPath": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest.Tests\\InteviewTest.Tests.csproj",
       "packagesPath": "C:\\Users\\marc.legendre\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest.Tests\\obj\\",
       "projectStyle": "PackageReference",
@@ -5677,8 +5677,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\DealerTrackTest.csproj": {
-              "projectPath": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\DealerTrackTest.csproj"
+            "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\InterviewTest.csproj": {
+              "projectPath": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\InterviewTest.csproj"
             }
           }
         }

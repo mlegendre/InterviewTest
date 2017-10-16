@@ -1,0 +1,10 @@
+C:\Users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\bin\Debug\netcoreapp2.0\InterviewTest.deps.json
+C:\Users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\bin\Debug\netcoreapp2.0\InterviewTest.runtimeconfig.json
+C:\Users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\bin\Debug\netcoreapp2.0\InterviewTest.runtimeconfig.dev.json
+C:\Users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\bin\Debug\netcoreapp2.0\InterviewTest.dll
+C:\Users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\bin\Debug\netcoreapp2.0\InterviewTest.pdb
+C:\Users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\obj\Debug\netcoreapp2.0\InterviewTest.csproj.CoreCompileInputs.cache
+C:\Users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\obj\Debug\netcoreapp2.0\InterviewTest.AssemblyInfoInputs.cache
+C:\Users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\obj\Debug\netcoreapp2.0\InterviewTest.AssemblyInfo.cs
+C:\Users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\obj\Debug\netcoreapp2.0\InterviewTest.dll
+C:\Users\marc.legendre\Source\Repos\DealerTrackTest\DealerTrackTest\obj\Debug\netcoreapp2.0\InterviewTest.pdb

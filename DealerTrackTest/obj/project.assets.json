@@ -673,9 +673,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\DealerTrackTest.csproj",
-      "projectName": "DealerTrackTest",
-      "projectPath": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\DealerTrackTest.csproj",
+      "projectUniqueName": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\InterviewTest.csproj",
+      "projectName": "InterviewTest",
+      "projectPath": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\InterviewTest.csproj",
       "packagesPath": "C:\\Users\\marc.legendre\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marc.legendre\\Source\\Repos\\DealerTrackTest\\DealerTrackTest\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 using System;
+using InterviewTest;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using DealerTrackTest;
 
-namespace DealerTrackTest.Tests
+namespace InteviewTest.Tests
 {
     [TestClass]
     public class UnitTest1

@@ -2,30 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DealerTrackTest
+namespace InterviewTest
 {
     public class ReturnString
     {
-
-        /// <summary>
-        ///Write a method that modifies a string using the following rules:
-        ///1. Each word in the input string is replaced with the following: 
-
-        ///* the first letter of the word
-        ///* the count of distinct letters between the first and last letter
-
-        ///* the last letter of the word.
-
-        ///For example, "Automotive" would be replaced by "A6e".
-
-        ///2. A "word" is defined as a sequence of alphabetic characters, delimited by any non-alphabetic
-        ///characters.
-
-        ///3. Any non-alphabetic character in the input string should appear in the output string in its
-        /// original relative location.
-        ///</summary>
-        //private static readonly Regex ValidCharacters = new Regex("^[a-zA-Z]*$");
-        //@"Visual (Basic|C#|C\+\+|J#|SourceSafe|Studio)"
         private static readonly System.Text.RegularExpressions.Regex ValidCharacters =
             new System.Text.RegularExpressions.Regex("^[a-zA-Z]*$");
         
@@ -75,9 +55,7 @@ namespace DealerTrackTest
                             }
                         }
 
-                        //
                         countValidChars = validCharactersToCount.Distinct().Count();
-                        //if first position is taken go up in the word position
                         if (finalDictWord.ContainsKey(firstPositionForInsertion))
                         {
                             firstPositionForInsertion++;
