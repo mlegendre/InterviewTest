@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewTest", "DealerTrackTest\InterviewTest.csproj", "{AE62EC69-F41B-41BA-9B6B-C912A1CFD339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewTest", "InterviewTest\InterviewTest.csproj", "{AE62EC69-F41B-41BA-9B6B-C912A1CFD339}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteviewTest.Tests", "DealerTrackTest.Tests\InteviewTest.Tests.csproj", "{CB07EC2F-F376-453B-88C5-7C61BCE94948}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteviewTest.Tests", "InterviewTest.Tests\InteviewTest.Tests.csproj", "{CB07EC2F-F376-453B-88C5-7C61BCE94948}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
